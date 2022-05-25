@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pedro/code/FatT0ny1/TaxiFareModel/mlruns/1/912d191f4e3f4b1eab23c29cb047b897/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 912d191f4e3f4b1eab23c29cb047b897
+run_uuid: 912d191f4e3f4b1eab23c29cb047b897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653392613767
+status: 1
+tags: []
+user_id: unknown
